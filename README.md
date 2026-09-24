@@ -73,5 +73,5 @@ Software engineering student with a strong foundation in backend development, sy
     <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/RedX7486/RedX7486/output/github-snake.svg">
   </picture>
 
-  <img src="https://raw.githubusercontent.com/RedX7486/RedX7486/main/github-metrics-languages.svg" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/RedX7486/RedX7486/main/github-metrics-languages.svg?v=1" alt="Top Languages" />
 </div>
