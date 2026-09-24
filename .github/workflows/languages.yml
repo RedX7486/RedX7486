@@ -19,7 +19,7 @@ jobs:
         with:
           # Saves the generated image directly to your main branch
           filename: github-metrics-languages.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           
           # Enables the Top Languages feature
