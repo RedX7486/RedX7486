@@ -1,0 +1,29 @@
+name: Generate Languages Card
+
+on:
+  schedule:
+    # Runs automatically at midnight every day
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+    - main
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Saves the generated image directly to your main branch
+          filename: github-metrics-languages.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          
+          # Enables the Top Languages feature
+          plugin_languages: yes
+          plugin_languages_limit: 6
+          plugin_languages_details: bytes-size, percentage
+          config_theme: tokyonight
