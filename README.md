@@ -67,10 +67,9 @@ Software engineering student with a strong foundation in backend development, sy
 ---
 ## 📊 GitHub Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RedX7486&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedX7486&layout=compact&theme=tokyonight" alt="Top Languages" />
-  
-  <br/><br/>
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RedX7486&bg_color=1a1b27&color=38BDF8&line=38BDF8&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RedX7486/RedX7486/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RedX7486/RedX7486/output/github-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/RedX7486/RedX7486/output/github-snake.svg">
+  </picture>
 </div>
