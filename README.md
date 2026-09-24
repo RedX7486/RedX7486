@@ -67,6 +67,8 @@ Software engineering student with a strong foundation in backend development, sy
 ---
 ## 📊 GitHub Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RedX7486
+&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedX7486
+&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
