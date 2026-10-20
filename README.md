@@ -24,7 +24,6 @@ Software engineering student with a strong foundation in backend development, sy
 | **Languages** | <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" /> <img src="https://img.shields.io/badge/sql-%23003B57.svg?style=flat-square&logo=postgresql&logoColor=white" /> x86-64 Assembly <br/> |
 | **Frameworks** | <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white" /> <img src="https://img.shields.io/badge/JavaFX-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=flat-square&logo=godot-engine" /> |
 | **Tools/OS** | <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=flat-square&logo=vim&logoColor=white" /> GDB, Valgrind <br/> |
-| **Focus Areas** | Backend Engineering, REST APIs, Database Infrastructure, Web Exploitation, Cryptography |
 <br/>
 
 ---
