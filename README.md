@@ -12,7 +12,7 @@ Software engineering student with a strong foundation in backend development, sy
 
 * **Pronouns:** he/him
 * **Seeking:** Software Engineering Internships for Summer 2027
-* **Contact:** [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) | [Email](mailto:svillasrod@gmail.com)
+* **Contact:** [LinkedIn](https://linkedin.com/in/santiago-villas) | [Email](mailto:svillasrod@gmail.com)
 
 
 
